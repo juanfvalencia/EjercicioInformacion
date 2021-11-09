@@ -8,6 +8,5 @@ public class Information {
 
     datos.leerDatos();
     datos.mostrarDatos();
-    //prueba
     }
 }
